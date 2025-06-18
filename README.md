@@ -1,0 +1,1 @@
+Weighted scam checker gql server that screens domain name age, free email domains, message content and phone numbers
